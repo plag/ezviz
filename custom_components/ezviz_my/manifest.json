@@ -1,5 +1,5 @@
 {
-  "domain": "ezviz",
+  "domain": "ezviz_my",
   "name": "EZVIZ MY",
   "codeowners": ["@RenierM26", "@baqs"],
   "config_flow": true,
